@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 emkolp sdfff
 fsffwfwfwrwrwr
 dadad
@@ -6,4 +7,14 @@ grgrwtwrtw
 ewr2344352grgkmlkmge
 dsdwqqwqdwf
 1234567890
+=======
+emkolp sdfff
+fsffwfwfwrwrwr
+dadad
+grgrwtwrtw
+4134341431
+ewr2344352grgkmlkmge
+dsdwqqwqdwf
+1234567890
+>>>>>>> f27e27aa1d3df862ea7a1105fa332ca602ad1135
 ytrhgefwdqsaxcvfbgtrhge

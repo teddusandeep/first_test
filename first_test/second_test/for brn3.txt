@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 efekfneklwfnlknfewfne;lfeiruru09245895039[
 kjfblbfkjlbkfbdkjfbkjbfjebfew
 [efjebfkebfkebfbekf
@@ -8,4 +9,16 @@ kfbkbfe
 djbq
 qrq
 rr
+=======
+efekfneklwfnlknfewfne;lfeiruru09245895039[
+kjfblbfkjlbkfbdkjfbkjbfjebfew
+[efjebfkebfkebfbekf
+fjfbefkebfkebwwf
+ewfbejfekjfbe
+fkjbkfbkf
+kfbkbfe
+djbq
+qrq
+rr
+>>>>>>> f27e27aa1d3df862ea7a1105fa332ca602ad1135
 9

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 123456789
 4ewdfghjkio
 dfghjkoiuytre
@@ -5,4 +6,13 @@ sdfghji876543
 wert567876543wq
 cfghjuiuytgbnh
 qwert6543ertg
+=======
+123456789
+4ewdfghjkio
+dfghjkoiuytre
+sdfghji876543
+wert567876543wq
+cfghjuiuytgbnh
+qwert6543ertg
+>>>>>>> f27e27aa1d3df862ea7a1105fa332ca602ad1135
 qasdcfvgbhyu7y6t54re3w
