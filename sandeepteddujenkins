@@ -1,0 +1,11 @@
+from selenium import webdriver
+from webdriver import *
+driver=webdriver.Chrome()
+driver.get("https://www.google.com")
+driver.find_element_by_name('q').click()
+#driver.window_handles()
+driver.find_element_by_name('btnK')
+driver.maximize_window()
+driver.getWindowHandle()
+
+driver.close()
