@@ -1,0 +1,5 @@
+import inflect
+n=input("Please Enter a Number in the range of 1-999:")
+if n in range(1,999):
+    p=inflect.engine()
+    print p.number_to_words(n)  
